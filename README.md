@@ -18,3 +18,6 @@ To use Firebase for storing user inputs, follow these steps:
    Run the following command in your project directory to install Firebase:
    ```bash
    npm install firebase
+
+
+   
